@@ -7,10 +7,7 @@ Feel free to contribute or discuss the project.
 
 ## Contents
 
-  * [Sceenshots][Screenshots]
   * [Team][Team]
-
-## Sceenshots
 
 ## Team
 
